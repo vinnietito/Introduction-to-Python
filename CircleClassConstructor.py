@@ -15,5 +15,5 @@ bCircle = Circle(14)
 areaA = aCircle.calArea()
 areaB = bCircle.calArea()
 
-print("Areaof the circle A is:\t", areaB)
+print("Area of the circle A is:\t", areaB)
 print("Area of circle B is:\t", areaB)
