@@ -9,3 +9,9 @@ class Student:
     
     
 # Derived class
+class BIT_student(Student):
+    """A class extending Student."""
+    def __init__(self, n, a):
+        super().__init__(n, a)
+        self.department_num = d
+        
