@@ -7,3 +7,5 @@ class Point:
         return "(" + str(self.x) + ", " + str(self.y) + ")"
     
 # Example usage
+p = Point(6, 9)
+print(p)
